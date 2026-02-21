@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Aguiar
 
-`Desenvolvedor FullStack`
+`Software Engineering Student`
 
 ---
 
